@@ -1,0 +1,50 @@
+.jumbotron{
+	background: darkgreen;
+	padding: 25px 25px 15px 10px;
+}
+
+body {
+  color: white;
+  background: teal;
+  font-size: 105%;
+}
+
+#content {
+  background: green;
+}
+
+h1 {
+  padding: 20px 0px 20px 0px;
+}
+
+ul.buttonlist a {
+  margin: 5px;
+}
+.box{
+	box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
+}
+.figure-caption{
+	color: white;
+}
+.crop {
+    width: 360px;
+    height: 300px;
+    overflow: hidden;
+}
+
+.crop img {
+    height: 300px;
+    margin: 0 -200px 0 -200px;
+}
+div.polaroid {
+    background-color: darkgreen;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.polaroid div{
+	width: 100%
+}
+div.caption {
+    text-align: center;
+    padding: 10px 20px;
+
+}
